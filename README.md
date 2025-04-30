@@ -6,7 +6,7 @@
 🧪 Skilled in writing **Test Cases**, performing **Automation Testing**, and modeling **business workflows** using tools like **Draw.io**, **Camunda**, and **Figma**  
 🧠 Able to use **SQL** for data querying and have hands-on experience with **Python**, **C#**, **JavaScript**  
 📊 Worked on projects related to **system design**, **data analysis**, **data mining**, and **data visualization** using **Power BI**, **Weka**, **Orange**, and **VS Code**  
-🚀 Actively looking for an **Internship opportunity** in Business Analysis to grow professionally and contribute effectively to real-world projects  
+🚀 Actively looking for an **Internship opportunity** in Business Analyst to grow professionally and contribute effectively to real-world projects  
 
 ---
 
