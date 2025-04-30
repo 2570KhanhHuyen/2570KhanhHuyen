@@ -34,5 +34,5 @@
 
 ### 📬 Contact
 
-📧 Email: [trinhkhanhhuyen247@gmial.com](mailto:trinhkhanhhuyen247@gmail.com)  
+📧 Email: [trinhkhanhhuyen247@gmail.com](mailto:trinhkhanhhuyen247@gmail.com)  
 📞 Phone: 0912 248 559
