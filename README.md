@@ -3,7 +3,7 @@
 🎓 A fourth-year student majoring in **Information Systems Management** at **University of Economics – The University of Danang**  
 💡 Passionate about **technology, data analysis, and business analysis**  
 🧩 Familiar with **Agile**, **Scrum**, and **Waterfall** methodologies  
-🧪 Skilled in writing **Test Cases**, performing **Automation Testing**,**API Testing**, and modeling **business workflows** using tools like **Draw.io**, **Camunda**, and **Figma**  
+🧪 Skilled in writing **Test Cases**, performing **Automation Testing**, **API Testing**, and modeling **business workflows** using tools like **Draw.io**, **Camunda**, and **Figma**  
 🧠 Able to use **SQL** for data querying and have hands-on experience with **Python**, **C#**, **JavaScript**, use **Postman** for testing API
 📊 Worked on projects related to **system design**, **data analysis**, **data mining**, and **data visualization** using **Power BI**, **Weka**, **Orange**,**PostgreSQL**, and **VS Code**  
 🚀 Actively looking for an **Internship opportunity** in Business Analyst, Testing or Data Analyst to grow professionally and contribute effectively to real-world projects  
@@ -32,6 +32,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
