@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm Trịnh Thị Khánh Huyền!</h1>
 
-🎓 A third-year student majoring in **Information Systems Management** at **University of Economics – The University of Danang**  
+🎓 A fourth-year student majoring in **Information Systems Management** at **University of Economics – The University of Danang**  
 💡 Passionate about **technology, data analysis, and business analysis**  
 🧩 Familiar with **Agile**, **Scrum**, and **Waterfall** methodologies  
 🧪 Skilled in writing **Test Cases**, performing **Automation Testing**, and modeling **business workflows** using tools like **Draw.io**, **Camunda**, and **Figma**  
